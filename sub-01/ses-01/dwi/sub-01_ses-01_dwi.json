@@ -1,0 +1,11 @@
+{
+  "Manufacturer": "Siemens",
+  "ManufacturersModelName": "Prisma",
+  "MagneticFieldStrength": 3,
+  "PulseSequenceType": "SpinEcho",
+  "EchoTime": 0.09,
+  "RepetitionTime": 19,
+  "SliceTiming": [],
+  "PhaseEncodingDirection": "j-",
+  "TotalReadoutTime": 0.08903999999999999
+}
